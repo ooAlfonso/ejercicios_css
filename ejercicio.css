@@ -1,0 +1,23 @@
+html {
+    background-color: rgba(3, 109, 35, 0.726);
+
+}
+h1 {
+    color: black;
+    text-align: left;
+    font-size: 30px ;
+
+}
+.p1 {
+    color: white;
+}
+.p2 {   
+    color: yellow;
+    
+}
+.p3 {
+    color: rgb(255, 196, 0);
+}
+.p4 { 
+    color: red;
+}

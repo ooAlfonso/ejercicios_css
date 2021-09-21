@@ -1,0 +1,33 @@
+/* forma para agregar estilos a mi texto */
+
+
+.title1 {
+    color: brown;
+    font-family: 'Azeret Mono', monospace;    
+    font-weight: 100 ;
+    
+}
+.title2 {
+    color: cornflowerblue;
+    font-family: 'Karantina', cursive;
+    font-weight: 700 ;
+
+}
+.title3 {
+    color: darkgreen;
+    font-family: 'Merriweather', serif;
+    font-weight: 700 ;
+
+}
+.title4 {
+    color: darkorange;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 300 ;
+
+}
+.title5 {
+    color: goldenrod;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 700 ;
+}
+

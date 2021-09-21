@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+.flex-container{
+    display: flex;
+    height: 600px;
+    flex-wrap: wrap;
+    background-color: rgb(218, 72, 52);
+    padding: 5px;
+}
+.flex-container div{
+    background-color: rgba(20, 196, 219, 0.746);
+    width: 350px;
+    height: 150px;;
+    margin: 25px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    line-height: 200x;
+    color: white;
+    font-size: 100px;
+}

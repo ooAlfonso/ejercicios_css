@@ -1,0 +1,31 @@
+html {
+    background-color: rgb(168, 165, 165);
+}
+.contenedor {
+    width: 80vw;
+    margin: auto ;
+}
+
+h1.title {
+    font-family: 'Merriweather', serif;
+    text-align: center ;     
+    font-weight: 700 ;
+
+}
+.img {
+    float: left;
+    margin: auto ;
+}
+
+
+h2.sub1 {
+    font-family: 'Merriweather', serif;
+    background-color: gray;
+    text-align: left;
+    font-weight: 700 ;
+    color: white;
+}
+.text1 {
+    float: right;
+}
+
