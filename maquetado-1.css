@@ -1,24 +1,61 @@
 *{
     padding: 0px;
-    margin: 15px;
+    margin: 0px;
 }
-.container{
-    height: 45px;
+.head{
+    height: 50px;
     background-color: rgb(180, 179, 179);
-    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;    
 }
-.header{
+.nav{
+    height: 35px;
+    background-color: rgb(180, 179, 179);
+    margin: 10px;
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    margin: 25px;
-    flex-wrap: wrap;
-    
 }
-.nav2{
-    font-family: 'Roboto', sans-serif;
-    text-align: center;
-    margin: 30px;
-    
+div{ 
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 
-  
 }
+/* recordar dimencionar el div primero */
+
+.container{ 
+    height: 600px;
+    background-color: white;
+
+}
+.cnt1, .cnt2{
+    height: 590px;
+    width: 20%;
+    background-color: rgb(180, 179, 179);
+    margin: 10px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.main{
+    height: 590px;
+    width: 70%;
+    background-color: rgb(180, 179, 179);
+    margin: 10px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.foot{
+    height: 75px;
+    background-color: rgb(180, 179, 179);
+    margin: 10px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;    
+}
+
+
+
+
+
