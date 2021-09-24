@@ -1,0 +1,21 @@
+*{
+    background-color: hsl(0, 0%, 0%);
+}
+
+h1{
+    color: rgb(255, 255, 0);
+    text-align: center;
+}
+h3{
+    color: rgb(149, 185, 75);
+    font-size: 25px;
+}
+p{
+    color: hsl(0, 0%, 100%);
+    font-size: 45px;
+}
+.p-2{
+    color: rgb(194, 124, 194);
+    background-color: white;
+    padding: 15px;
+}

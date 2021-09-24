@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 15px;
+}
+.container{
+    height: 45px;
+    background-color: rgb(180, 179, 179);
+    padding: 20px;
+}
+.header{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin: 25px;
+    flex-wrap: wrap;
+    
+}
+.nav2{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin: 30px;
+    
+
+  
+}
